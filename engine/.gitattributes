@@ -1,0 +1,13 @@
+# Attempt to perform automatic text detection
+* text=auto
+
+# These are text for sure
+*.c     text
+*.cpp   text
+*.h     text
+*.hpp   text
+*.txt   text
+*.lua   text
+*.json  text
+*.tmx   text
+README  text
